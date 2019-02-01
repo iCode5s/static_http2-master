@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8097b102-946b-4756-85cd-267db113cff1" name="Default Changelist" comment="" />
+    <list default="true" id="8097b102-946b-4756-85cd-267db113cff1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../static_http2-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../static_http2-master/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,8 +36,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../static_http2-master" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-88" />
-    <option name="y" value="86" />
+    <option name="x" value="61" />
+    <option name="y" value="185" />
     <option name="width" value="1440" />
     <option name="height" value="670" />
   </component>
@@ -104,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549046291308</updated>
       <workItem from="1549046292734" duration="1577000" />
-      <workItem from="1549047944187" duration="754000" />
+      <workItem from="1549047944187" duration="996000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1549046795007</created>
@@ -127,16 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1549047405446</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first">
+      <created>1549048922273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549048922273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2331000" />
+    <option name="totallyTimeSpent" value="2573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="51" width="1440" height="686" extended-state="0" />
+    <frame x="61" y="185" width="1440" height="670" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -149,8 +158,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4057239" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.40484428" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49964765" visible="true" weight="0.40484428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
