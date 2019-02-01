@@ -1,0 +1,19 @@
+{
+  "name": "icode5server",
+  "version": "1.0.0",
+  "description": "tiny nodejs web static server",
+  "main": "app.js",
+  "bin": {
+    "icode5server": "bin/icode5server"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "icode5s",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "handlebars": "^4.0.12",
+    "yargs": "^12.0.5"
+  }
+}
